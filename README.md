@@ -1,4 +1,4 @@
-[![Dotframe](https://raw.githubusercontent.com/dotframe/dotframe/branch/.github/assets/banner.png)](https://dotframe.now.sh)
+[![Dotframe](https://raw.githubusercontent.com/dotframe/dotframe/master/.github/assets/banner.png)](https://dotframe.now.sh)
 
 <p align="center">
   <a aria-label="NPM version" href="https://www.npmjs.com/package/dotframe">
